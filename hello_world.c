@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("My hobby is playing computer games.\n");
+	printf("This is branch 2.\n");
 	return 0;
 }
